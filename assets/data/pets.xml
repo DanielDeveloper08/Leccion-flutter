@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals>
+  <animal>
+    <nombre>Toby</nombre>
+    <raza>Labrador Retriever</raza>
+    <color>Amarillo</color>
+    <imagenUrl>assets/img/Labrador.jpg</imagenUrl>
+  </animal>
+  <animal>
+    <nombre>Luna</nombre>
+    <raza>Border Collie</raza>
+    <color>Blanco y Negro</color>
+    <imagenUrl>assets/img/Border.jpg</imagenUrl>
+  </animal>
+  <animal>
+    <nombre>Max</nombre>
+    <raza>Golden Retriever</raza>
+    <color>Dorado</color>
+    <imagenUrl>assets/img/golden.jpeg</imagenUrl>
+  </animal>
+  <animal>
+    <nombre>Bella</nombre>
+    <raza>Poodle</raza>
+    <color>Blanco</color>
+    <imagenUrl>assets/img/Poddle.jpg</imagenUrl>
+  </animal>
+  <animal>
+    <nombre>Rocky</nombre>
+    <raza>Bulldog Inglés</raza>
+    <color>Café y Blanco</color>
+    <imagenUrl>assets/img/Bulldog.webp</imagenUrl>
+  </animal>
+</animals>
